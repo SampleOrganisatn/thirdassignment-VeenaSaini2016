@@ -16,7 +16,7 @@ public class Sample {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a;
+		int a,b;
 		System.out.print("hello there");
 	}
 	
